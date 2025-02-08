@@ -6,4 +6,4 @@ matplotlib
 streamlit
 protobuf
 streamlit_extras
-tensorflow-gpu
+
